@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.2.3",
+    "bluebird": "^2.10.0",
+    "gray-matter": "^2.0.1",
+    "markdown-it": "^4.4.0",
+    "mustache": "^2.1.3",
+    "js-yaml": "^3.4.3"
+  }
+}
